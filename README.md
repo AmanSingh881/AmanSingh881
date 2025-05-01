@@ -1,58 +1,49 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Aman Singh </a></h1>
-<!-- <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3> -->
-<h3 align="center">DevOps Engineer</h3>
-- 🌱 Learning Never Stops 🚀
-
-- 💬 Ask me about **Cloud, DevOps, SysAdmin, DbsAdmin, Python, IOT**
-
-- 👨‍💻 Check out my personal portfolio : **<a href="https://jigarsable.vercel.app" target="_blank">Portfolio</a>**
-
-- 😄 Pronouns: He/His
-
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/amansingh881/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:amanadhikariaps@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-
-<h3 align="left">Web Tech Stack :</h3>
-<div align="left">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-
-</div>
-
-<h3 align="left">Languages :</h3>
-<div align="left">
-
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  
-</div>
-
-<h3 align="left">Databases :</h3>
-<div align="left">
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&width=700&lines=Welcome+to+Aman Singh's+GitHub+Profile!+🚀" alt="Typing SVG" />
+</p>
 
 
-<h3 align="left">Hosting :</h3>
-<div align="left">
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</div><br/>
+# 👋 Hey, I'm Kalyan Reddy Daida — StackSimplify!
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=jigar-sable&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jigar-sable&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
-  </tr>
-</table>
+🚀 Cloud | DevOps | Kubernetes | Terraform | AI Enthusiast  
+🎯 Mission: Simplify Real-World Tech | Build Hands-On Learning for 1M+ Students
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
-  </div>
+---
+
+## 🔥 About Me
+- 🏗️ Founder of **StackSimplify** - 300,000+ students and counting!
+- 🛠️ I specialize in **AWS, Azure, GCP, Kubernetes, Docker, Terraform** and more
+- 🎥 Creating **highly practical Udemy courses** to make cloud & DevOps simple
+- 📚 Passionate about helping you **build real-world cloud projects**
+- ⚡ Always learning, always building!
+
+---
+
+## ⚡ Tech Stack
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,python,java,spring,ansible,prometheus,grafana" />
+
+---
+
+## ⭐ GitHub Stars
+<p align="left">
+  <img src="https://img.shields.io/github/stars/stacksimplify?label=Stars&logo=github&color=FFD700&style=for-the-badge" alt="GitHub Stars"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+- 🌐 [Website](https://stacksimplify.com/)
+- 📧 [Email](mailto:dkalyanreddy@gmail.com)
+- 🎥 [YouTube](http://www.youtube.com/stacksimplify?sub_confirmation=1)
+- 💼 [LinkedIn](http://www.linkedin.com/in/kalyan-reddy-daida)
+
+
+---
+
+## ✨ Quote I Live By
+> "**Simplify everything you build, empower everyone you teach.**"
+
+---
+
+<!-- 🐍 Special GitHub Contribution Snake (Optional Fancy Stuff) -->
+<!-- ![Snake animation](https://github.com/stacksimplify/stacksimplify/blob/output/github-contribution-grid-snake.svg) -->
