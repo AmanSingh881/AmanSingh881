@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&width=700&lines=Welcome+to+my+GitHub+Profile!;Cloud%2C+DevOps%2C+Kubernetes!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&width=700&lines=Welcome+to+my+GitHub+Profile!;Cloud%2C+DevOps%2C+Terraform%2C+CI-CD%2C+Kubernetes!;" alt="Typing SVG" />
 </p>
 
 
@@ -19,14 +19,8 @@
 ---
 
 ## ⚡ Tech Stack
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,python,java,spring,ansible,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,python,ansible,prometheus,grafana" />
 
----
-
-## ⭐ GitHub Stars
-<p align="left">
-  <img src="https://img.shields.io/github/stars/stacksimplify?label=Stars&logo=github&color=FFD700&style=for-the-badge" alt="GitHub Stars"/>
-</p>
 
 ---
 
