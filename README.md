@@ -10,11 +10,11 @@
 ---
 
 ## 🔥 About Me
-- 🏗️ Founder of **StackSimplify** - 300,000+ students and counting!
-- 🛠️ I specialize in **AWS, Azure, GCP, Kubernetes, Docker, Terraform** and more
-- 🎥 Creating **highly practical Udemy courses** to make cloud & DevOps simple
-- 📚 Passionate about helping you **build real-world cloud projects**
-- ⚡ Always learning, always building!
+- 💻 DevOps Engineer with hands-on experience in AWS, Terraform, and Kubernetes
+- ⚙️ Skilled in CI/CD automation using Jenkins, Shell, and Python
+- 🛠️ Built secure, scalable cloud and edge infrastructure using IaC practices
+- 📦 Passionate about containerization, automation, and cloud-native tools
+- 🔍 Strong in debugging, system monitoring, and infrastructure optimization
 
 ---
 
