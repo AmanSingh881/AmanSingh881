@@ -32,7 +32,7 @@
 ---
 
 ## ✨ Quote I Live By
-> "**Simplify everything you build, empower everyone you teach.**"
+> "**The strength of a system is measured not in uptime, but in how fast it recovers.**"
 
 ---
 
